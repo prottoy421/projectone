@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1300px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+.nav-menu {
+    
+    background-color: seagreen;
+    overflow: hidden;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+li {
+    list-style-type: none;
+    float: left;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 16px 20px;
+}
+
+a:hover {
+    background: white;
+    color: #000000;
+}
+
+.main-content {
+    width: 100%;
+    height: 650px;
+}
+
+
+
+.left {
+    width: 70%;
+    height: 650px;
+    background-color: red;
+    float: left;
+}
+
+.one {
+    background-color: blue;
+    width: 65%;
+    height: 200px;
+    float: left;
+}
+
+.two {
+    background-color: yellow;
+    width: 35%;
+    height: 200px;
+    float: left; 
+}
+
+
+}
+
+.three {
+    width: 33.33%;
+    height: 250px;
+    background-color: blue;
+    float: left;
+}
+
+.right {
+    width: 30%;
+    height: 650px;
+    background-color: black;
+    float: left;
+}
+
+.four {
+    width: 100%;
+    height: 325px;
+    background-color: bisque;
+    float: left;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: orange;
+}
+
